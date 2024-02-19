@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nathanwotatu/static/css/main.3dbf9030.css",
+    "main.js": "/Nathanwotatu/static/js/main.e194e7de.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Nathanwotatu/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Nathanwotatu/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.png": "/Nathanwotatu/static/media/logo.48f1ba4767fdfcfad287.png",
+    "static/media/home-main.svg": "/Nathanwotatu/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Nathanwotatu/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Natti.jpg": "/Nathanwotatu/static/media/Natti.d5e9f84e247eef61c139.jpg",
+    "static/media/home-bg.jpg": "/Nathanwotatu/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Nathanwotatu/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Nathanwotatu/index.html",
+    "main.3dbf9030.css.map": "/Nathanwotatu/static/css/main.3dbf9030.css.map",
+    "main.e194e7de.js.map": "/Nathanwotatu/static/js/main.e194e7de.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Nathanwotatu/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Nathanwotatu/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dbf9030.css",
+    "static/js/main.e194e7de.js"
+  ]
+}
